@@ -4,8 +4,8 @@ $( document ).ready(function() {
 
 $("#newButton").on("click", function() {
 
-    var person = "darth vader"
-    var queryURL = "https://api.giphy.com/v1/stickers/search?api_key=5TRw6UUxhHk9vmQzHs0hHTMMQ4REtBFV&q=" + person + "&limit=10";
+    var emotion = "happy"
+    var queryURL = "https://api.giphy.com/v1/gifs/search?api_key=5TRw6UUxhHk9vmQzHs0hHTMMQ4REtBFV&q=" + emotion + "&limit=10";
 
     $.ajax({
       url: queryURL,
