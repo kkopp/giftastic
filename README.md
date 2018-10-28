@@ -10,6 +10,6 @@ If you want to add a new button, just enter the new search term in the box and c
 At this time, the submit button works, but the search function does not work (no new gif images load...so sad, BUT, it is a work in progress)
 
 ## Screenshots
-![screenshot](assets/images/screenshot.png)
+![screenshot](/assets/images/screenshot.PNG)
 
-![screenshot](assets/images/screenshot2.png)
+![screenshot](/assets/images/screenshot2.PNG)
