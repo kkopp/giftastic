@@ -23,9 +23,11 @@ $( document ).ready(function() {
       var topic = $("#topic-input").val().trim();
       topics.push(topic);
       makeButtons();
+      $("#topic-input").val("");
       return false;
   });
 
+  
 
   $(".buttonContainer").on("click", ".moviebtn", function () {
     //console.warn("we're here 0");

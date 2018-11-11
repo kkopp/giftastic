@@ -7,8 +7,6 @@ Pretty straight forward, click on one of the links, 10 still images will show up
 
 If you want to add a new button, just enter the new search term in the box and click the "Submit" button and a new button will be created.
 
-At this time, the submit button works, but the search function does not work (no new gif images load...so sad, BUT, it is a work in progress)
-
 ## Screenshots
 Upon Page Load
 ![screenshot](/assets/images/screenshot.PNG)
